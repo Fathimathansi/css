@@ -1,0 +1,66 @@
+body{
+    /* background-image: url(https://tse1.mm.bing.net/th?id=OIP.pbqTxtGtuzfJZtp2jk4RhgHaEK&pid=Api&P=0&h=180) ; */
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-color: rgb(234, 232, 228);
+    
+}
+
+
+
+.heading{
+    color: rgb(14, 15, 20);
+    text-align: center;
+    border-style:double;
+    font-weight:bolder;
+    font-variant: small-caps;
+    text-decoration:underline;
+    text-transform: capitalize;
+
+}
+.para{
+    margin-left: 20px;
+    margin-right: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    text-indent: 5cm;
+
+}
+ /* div{ 
+
+    margin-left: 400px; 
+    
+} */
+
+.main{
+    display: flex;
+    
+
+}
+.link{
+    color: rgb(0, 17, 255);
+}
+a:visited{
+    color: rgb(7, 239, 81);
+}
+a:hover{
+    text-transform: uppercase;
+}
+a:active{
+    color: blueviolet;
+
+
+}
+.image{
+    /* border:3px solid black;height: 50%; */
+    border:5px solid;
+    border-bottom-color: rgb(227, 103, 7);
+    border-top-color:red ;
+    border-left-color: brown;
+    border-right-color: red;
+
+   
+}
+     

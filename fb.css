@@ -1,0 +1,88 @@
+.head{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    
+
+}
+.face{
+    color: white;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-table{
+    color: white;
+    font-size: 11px;
+    
+}
+.table{
+    margin-left: 115px;
+
+}
+.link{
+    font-size: 11px;
+    color: white;
+    text-decoration: none;
+}
+.submit{
+    background-color: #3b5998;
+    color: white;
+    border-color: #4267b2;
+    height: 20px;
+    cursor: pointer;
+}
+.submit:hover{
+    background: darkblue;
+}
+.left-section{
+    width: 50%;
+    
+    padding-left: 134px;
+    padding-top: 52px;
+    
+    
+    
+
+    
+}
+.right-section{
+    
+
+    
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E8);
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.img{
+    width: 581px;
+}
+.para{
+    font-weight: bold;
+    font-size: 17px;
+}
+.para2{
+    
+}
+  

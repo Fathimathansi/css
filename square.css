@@ -1,0 +1,38 @@
+.main{
+    height: 150px;
+    width: 150px;
+    border:2px solid blue;
+    
+  
+
+}
+.small{
+    height: 150px;
+    width: 150px;
+    border: 2px solid red;
+}
+.square3{
+    height: 150px;
+    width: 150px;
+    background-color: aqua;
+  position: fixed;
+  top: 300;
+    
+}
+.square4{
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+}
+
+.square5{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+}
+
+body{
+    background-image: linear-gradient(to right,red,yellow,blue,violet);
+}

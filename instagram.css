@@ -1,0 +1,57 @@
+
+body{
+    
+    background-image: linear-gradient(130deg,blue,violet,red,orange);
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.square1{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    border-color:black;
+    
+
+   
+}
+.head{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.phone{
+    width: 300px;
+    height: 25px;
+}
+.password{
+    width: 300px;
+    height: 25px;
+}
+.button{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(8, 189, 245);
+    border-radius: 7px;
+    
+
+}
+a{
+    text-decoration: none;
+}
+.square2{
+    width: 400px;
+    height: 60px;
+    background-color: white;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.text{
+    padding-top: 20px;
+
+}
